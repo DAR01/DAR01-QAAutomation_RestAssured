@@ -1,0 +1,9 @@
+//To import package without a suggestion use: ctrl+shift+O
+
+//String json: for ahrd coded 
+//.json: file to be used if the content is static and fix, so there is no change to expect in the data
+// pojo: the only parent class is java Object class. No other parent class
+only getter and setter 
+to be used when the data are dynamic and suggest to change
+
+//lombok: reduce the code boiler plate as it is limit and save the creation of getter and setter
