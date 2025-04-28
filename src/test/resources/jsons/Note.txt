@@ -7,3 +7,11 @@ only getter and setter
 to be used when the data are dynamic and suggest to change
 
 //lombok: reduce the code boiler plate as it is limit and save the creation of getter and setter
+
+//Create a Pojo only for slightly simple json or pojo
+
+//Never create a Pojo for complexe json better use: jsonpath query using athird party api like jayway for instance
+
+//Never create a pojo for huge xml, better write xmlpath query with a thrid party api such as Jackson Dataformat XML » 2.19.0
+
+Jackson Dataformat XML » 2.19.0 and jayway library use a query concept  
